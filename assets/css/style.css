@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(90deg, rgba(255,0,151,1) 0%, rgba(0,212,255,1) 100%);
+    color: white;
+}
+
+h1, h2 {
+    text-align: center;
+    margin: 100px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    margin: 20px;
+}
